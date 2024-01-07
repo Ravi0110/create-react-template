@@ -1,0 +1,26 @@
+{
+  "name": "create-react-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "react-template": "./index.js"
+  },
+  "keywords": ["react template", "react", "template"],
+  "author": "Ravi Kansagara",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravi0110/create-react-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ravi0110/create-react-template/issues"
+  },
+  "homepage": "https://github.com/Ravi0110/create-react-template#readme"
+}
