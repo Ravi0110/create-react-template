@@ -1,4 +1,4 @@
-<h1 id="create-react-full-template">JavaScript Utility Package (create-react-full-template)</h1>
+<h1 id="create-react-full-template">Create React Full Template (create-react-full-template)</h1>
 <p>A stander react template.</p>
 <h2 id="installation">Installation</h2>
 <p>Install my-project with npm</p>
